@@ -1,10 +1,11 @@
 # Image From Text Generation 🎨
 
-## 🎞️ Demo
-![Piccc-ezgif com-video-to-gif-converter-2](https://github.com/user-attachments/assets/51f02086-374a-4c9e-be07-ec441d5bb28a)
+## 🎞️Demo
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51f02086-374a-4c9e-be07-ec441d5bb28a" alt="Demo">
+</p>
 
-
-## 📝 Content
+## 📝Content
 
 - [Overview](#%EF%B8%8Foverview)
 - [Technologies](#technologies)
